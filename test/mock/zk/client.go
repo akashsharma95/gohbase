@@ -5,8 +5,8 @@
 package mock
 
 import (
+	zk "github.com/akashsharma95/gohbase/zk"
 	gomock "github.com/golang/mock/gomock"
-	zk "github.com/tsuna/gohbase/zk"
 	reflect "reflect"
 )
 

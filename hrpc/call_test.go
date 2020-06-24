@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/tsuna/gohbase/pb"
+	"github.com/akashsharma95/gohbase/pb"
 	"google.golang.org/protobuf/proto"
 )
 

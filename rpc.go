@@ -14,10 +14,10 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/akashsharma95/gohbase/hrpc"
+	"github.com/akashsharma95/gohbase/region"
+	"github.com/akashsharma95/gohbase/zk"
 	log "github.com/sirupsen/logrus"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/region"
-	"github.com/tsuna/gohbase/zk"
 	"google.golang.org/protobuf/proto"
 )
 

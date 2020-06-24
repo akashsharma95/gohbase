@@ -18,8 +18,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/akashsharma95/gohbase/hrpc"
+	"github.com/akashsharma95/gohbase/pb"
 	"google.golang.org/protobuf/encoding/protowire"
 	"google.golang.org/protobuf/proto"
 )

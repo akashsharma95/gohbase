@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/tsuna/gohbase/compression"
+	"github.com/akashsharma95/gohbase/compression"
 )
 
 type compressor struct {
